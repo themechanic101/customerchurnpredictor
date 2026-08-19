@@ -108,17 +108,8 @@ This project doesn't just build a predictive model — it **translates data into
 - Incorporate **customer sentiment or feedback** as additional features
 - Track model performance over time with real churn data
 
----
-## 🙋‍♀️ About Me
 
-I'm a third-year Computer Applications student with a passion for data science. This project reflects my ability to combine technical machine learning skills with real-world business thinking. Looking for roles in **Data Analysis** or **Data Science**.
 
-📫 Reach me on [LinkedIn](www.linkedin.com/in/tanvi-sharma25)  
-📂 Portfolio: [My Portfolio ->](https://tanvirohitsharma.my.canva.site/portfolio)
-
----
-
-## ⭐ Star This Repo
 
 If you found this project useful, please give it a ⭐ on GitHub. It helps me grow!
 
